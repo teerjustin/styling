@@ -1,0 +1,26 @@
+h1{
+    background-color: black;
+    text-align: left;
+    padding: 28px;
+    font-size: 50px;
+}
+.white{
+    color:white;
+}
+
+h2{
+    background-color: rgb(73, 34, 66);
+    text-align: center;
+    padding:23px;
+    font-size: 40px;
+}
+
+
+h3{
+    background-color: rgb(135, 194, 228);
+    text-align: right;
+    padding: 18px;
+    font-size: 20px;
+    text-decoration: underline;
+    color:rgb(3, 3, 85);
+}
